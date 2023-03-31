@@ -1,6 +1,6 @@
 Name:		texlive-xduthesis
 Version:	63116
-Release:	1
+Release:	2
 Summary:	XeLaTeX template for writing Xidian University Thesis
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xduthesis
