@@ -3,7 +3,7 @@ Version:	63116
 Release:	2
 Summary:	XeLaTeX template for writing Xidian University Thesis
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xduthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xduthesis
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xduthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xduthesis.doc.r%{version}.tar.xz
